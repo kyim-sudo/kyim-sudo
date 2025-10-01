@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Muhammad Qasim  
+# Hi, I’m Muhammad Qasim  
 
 CEO & Founder of **Anon** | 🎓 Data Science Student  
 
